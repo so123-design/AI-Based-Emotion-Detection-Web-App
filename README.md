@@ -5,6 +5,11 @@ This project is an AI-powered web application that analyzes customer feedback an
 
 The application is built using **Flask** for the backend, integrates **IBM Watson’s NLP API** for emotion detection, and includes **unit testing** to ensure accuracy.  
 
+<p align="center">
+  <img src="images/my-image.png" alt="My Image" width="300">
+</p>
+
+
 ---
 
 ## 🚀 Features  
@@ -24,22 +29,6 @@ The application is built using **Flask** for the backend, integrates **IBM Watso
 
 ---
 
-## 🔧 Project Structure  
-```
-EmotionDetection-WebApp/
-│── EmotionDetection/
-│   ├── __init__.py
-│   ├── emotion_detection.py  # Emotion detection logic
-│── templates/
-│   ├── index.html  # Web UI
-│── test/
-│   ├── test_emotion_detection.py  # Unit tests
-│── server.py  # Flask backend
-│── requirements.txt  # Dependencies
-│── README.md  # Documentation
-```
-
----
 
 ## 📜 Code Implementation  
 
