@@ -6,7 +6,7 @@ This project is an AI-powered web application that analyzes customer feedback an
 The application is built using **Flask** for the backend, integrates **IBM Watson’s NLP API** for emotion detection, and includes **unit testing** to ensure accuracy.  
 
 <p align="center">
-  <img src="" alt="My Image" width="800">
+  <img src="https://github.com/so123-design/AI-Based-Emotion-Detection-Web-App/blob/7183e3a3417fa5bfa1bb20da380081d6572dd6c0/The%20emotion%20detection%20picture%202.PNG" alt="My Image" width="800">
 </p>
 
 
